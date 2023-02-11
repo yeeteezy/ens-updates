@@ -1016,7 +1016,11 @@ header.main > :last-child {
 
 /* Form */
 form {
-  margin: 0 0 2em 0; }
+  margin: 0 0 2em 0;
+  background: rgba(230, 235, 237, 0.25);
+  padding: 36px;
+  border-radius: 8px;
+  }
 
 label {
   color: #3d4449;
